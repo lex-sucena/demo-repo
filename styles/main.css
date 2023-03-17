@@ -85,7 +85,7 @@
 /* GENERAL HERO SECTION STYLING */
 
 .hero {
-  background-image: url("./hero-image.png");
+  background-image: url("/blob/master/imagens/hero-image.png");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
