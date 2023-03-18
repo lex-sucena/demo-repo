@@ -24,8 +24,8 @@
     list-style: none;
   }
   
-  /* Defina a largura máxima do conteúdo da página
+  /* Defina a largura máxima do conteúdo da página */
   .container {
     max-width: 1200px;
     margin: 0 auto;
-  } */
+  }
