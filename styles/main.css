@@ -1,3 +1,26 @@
+/* ! RESET SECTION */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+a {
+  text-decoration: none;
+}
+ul, ol {
+  list-style: none;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 /* GENERAL HEADER STYLING */
 .hero-header {
   display: flex;
